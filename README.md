@@ -1,0 +1,3 @@
+This repository should do some simple GNSS processing using GTSAM.  It is my first attempt at using both (gtsam)[https://github.com/borglab/gtsam] and my own (gnss-gtsam)[https://github.com/borglab/gnss-gtsam] libraries.
+
+I will start with a Docker container (all based on (gtsam-python-docker-vscode)[https://github.com/cntaylor/gtsam-python-docker-vscode] that allows me to run GTSAM in VSCode using Docker).  It will then add gnss-gtsam and then you can use the code here ... I hope!
